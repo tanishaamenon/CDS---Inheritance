@@ -4,8 +4,6 @@
 To study and implement inheritance. <br>
 <br>
 **Theory:** <br>
-Constructors: <br>
-<br>
 The child class can inherit properties, characteristics from another class called the parent class. This fundamental object-oriented programming principle known as _inheritance_. <br>
 There are three inheritance modes: <br>
 &#8594; Public Inheritance. <br>
@@ -258,24 +256,20 @@ int main()
 **Outputs:**  <br>
 <br>
 a.<br>
-![exp12a output](https://github.com/tanishaamenon/CDS---Constructors/blob/main/exp12a.JPG) <br>
+![exp14a output](https://github.com/tanishaamenon/CDS---Inheritance/blob/main/exp14a.JPG) <br>
 b.<br>
-![exp12b output](https://github.com/tanishaamenon/CDS---Constructors/blob/main/exp12b.JPG) <br>
+![exp14b output](https://github.com/tanishaamenon/CDS---Inheritance/blob/main/exp14b.JPG) <br>
 c.<br>
-![exp12c output](https://github.com/tanishaamenon/CDS---Constructors/blob/main/exp12c.JPG) <br>
+![exp14c output](https://github.com/tanishaamenon/CDS---Inheritance/blob/main/exp14c.JPG) <br>
 d.<br>
-![exp12d output](https://github.com/tanishaamenon/CDS---Constructors/blob/main/exp12d.JPG) <br>
-e.<br>
-![exp12e output](https://github.com/tanishaamenon/CDS---Constructors/blob/main/exp12e.JPG) <br>
-f.<br>
-![exp12f output](https://github.com/tanishaamenon/CDS---Constructors/blob/main/exp12f.JPG) <br>
+![exp14d output](https://github.com/tanishaamenon/CDS---Inheritance/blob/main/exp14d.JPG) <br>
 
 
 
 <br>
 
 **Conclusion:** <br>
-&#8594; We learnt about constructors and deconstructors in C++. <br>
-&#8594; We learnt the use case of each of them in C++. <br>
+&#8594; We learnt about inheritance in C++. <br>
+&#8594; We learnt the types and modes of inheritance in C++. <br>
 *******
 <br>
