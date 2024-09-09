@@ -1,7 +1,8 @@
 # include <iostream>
 # include <string>
 using namespace std;
-//multilevel inheritance
+
+//hierarchical inheritance
 class fivekingdom
 {
     public:
